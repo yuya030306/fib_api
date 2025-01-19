@@ -1,0 +1,13 @@
+https://yuya0303.pythonanywhere.com/fib?n=-5
+
+https://yuya0303.pythonanywhere.com/fib?n=-1
+
+https://yuya0303.pythonanywhere.com/fib?n=0
+
+https://yuya0303.pythonanywhere.com/fib?n=1
+
+https://yuya0303.pythonanywhere.com/fib?n=2
+
+https://yuya0303.pythonanywhere.com/fib?n=10
+
+https://yuya0303.pythonanywhere.com/fib?n=99
